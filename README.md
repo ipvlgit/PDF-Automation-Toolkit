@@ -12,6 +12,8 @@ Python commands vary based on OS, this is Windows:
 
     git clone https://github.com/ipvlgit/PDF-Automation-Toolkit.git
 
+    cd (required_directory)/PDF-Automation-Toolkit/src
+
 *TARGET FILES NEED TO BE MOVED TO THE SRC DIRECTORY
 
 ---
